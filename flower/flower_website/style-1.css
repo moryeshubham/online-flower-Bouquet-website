@@ -1,0 +1,50 @@
+/* --------------member login form page ------------------ */
+
+section
+{
+	height: 670px;
+
+	width: 1361px;
+	background-color: grey;
+}
+
+
+
+.box1
+{
+	height: 550px;
+	width: 450px;
+	background-color: #030002;
+	margin: 70px auto;
+	opacity: .6;
+	color: white;
+}
+
+form .login{
+margin: auto 70px;
+}
+
+form input{
+    height: 22px;
+    width: 300px;
+}
+
+
+/* ----------------------------------------Registration form css-------------------------------------------- */
+
+
+
+#sign_up_button
+{
+	margin-left: 120px;
+	color: black;
+}
+
+
+
+/*-------------------------------------------feedback from css----------------------------------------------*/
+
+#submit_fd
+{
+	color: black;
+}
